@@ -1,1 +1,1 @@
-# BlockchainHW18
+# hw18_blockchain
